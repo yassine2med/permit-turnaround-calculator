@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="permit-turnaround-calculator" width="100%"></p>
+
 # permit-turnaround-calculator
 
 Reads permit applications from CSV and reports turnaround in business days per permit type.
